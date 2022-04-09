@@ -6,4 +6,4 @@ Topup Server
 <br/>
 github: https://github.com/Alifudinniko/topupstore-server
 <br/>
-web: https://topupstore.herokuapp.com/
+web: http://topups.herokuapp.com/
